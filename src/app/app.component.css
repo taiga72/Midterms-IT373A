@@ -1,0 +1,64 @@
+
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: #24252a;
+  }
+  .logo {
+    margin-right: auto;
+    color:#edf0f1;
+    font-family: "Montserrat", sans-serif;
+    font-size: 35px;
+  }
+.logopic{
+      width: 70px;
+      height: auto;
+  }
+.personal{
+    margin-top: 50px;
+    text-align: center;
+    list-style: none;
+}
+.personal a{
+    font-size: 23px;
+    margin-bottom: 30px;
+    font-family: "Montserrat", sans-serif;
+}
+.personal li{
+    margin-bottom: 10px;
+}
+.personal p{
+    font-size: 25px;
+    margin-top: 60px;
+    font-family: "Montserrat", sans-serif;
+}
+.hobby{ 
+    justify-content: center;
+    list-style: none;
+    display: flex;
+}
+.hobby li{
+    margin: 10px;
+}
+img{
+    width: 450px;
+    height: auto;
+}
+h3{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
+}
+.contact li{
+    margin-top: 20px;
+    text-align: center;
+    list-style: none;
+}
+.contact a{
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-family: "Montserrat", sans-serif;
+}
